@@ -211,6 +211,22 @@ wrapper: white, is around everything. Size adjusts
 		text-decoration: underline;
 	}
 
+	a.paper2,
+	a.paper2:visited
+	{
+		font: 16px Georgia, "Times New Roman", Times, serif;
+		font-weight: normal;
+		text-decoration: none;
+		color: black;
+	}
+	a.paper2:hover,
+	a.paper2:active
+	{
+		font: 16px Georgia, "Times New Roman", Times, serif;
+		color: black;
+		text-decoration: underline;
+	}
+
 	a.coauthor, a.coauthor:visited, a.coauthor:hover, a.coauthor:active {
 	font: 16px Georgia, "Times New Roman", Times, serif;
 	color: #333;
