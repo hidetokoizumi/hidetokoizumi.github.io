@@ -13,3 +13,5 @@ google_site_verification
 
 plugins:
   - jekyll-feed
+plugins:
+ - jekyll-sitemap
