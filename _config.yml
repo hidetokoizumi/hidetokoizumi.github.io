@@ -9,8 +9,8 @@ url: "https://hidetokoizumi.github.io/index.html"
 
 github_username: hidetokoizumi
 author: "Hideto Koizumi"
-google_site_verification
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
