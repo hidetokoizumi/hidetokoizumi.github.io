@@ -240,3 +240,8 @@ wrapper: white, is around everything. Size adjusts
 	color: #000000;
 	text-decoration: none;
 	}
+
+
+.italic {
+  font-style: italic;
+}
