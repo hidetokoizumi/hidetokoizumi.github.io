@@ -99,6 +99,10 @@ wrapper: white, is around everything. Size adjusts
 	text-decoration: underline;
 }
 
+#navigation_left p {
+	white-space: nowrap;
+}
+
 #contentliquid {
     background: #FFFFFF;
     float: left;
@@ -114,7 +118,7 @@ wrapper: white, is around everything. Size adjusts
     padding-right: 10px;
 
     font: 16px Georgia, "Times New Roman", Times, serif;
-
+    white-space: normal;
 
 }
 
@@ -202,6 +206,7 @@ wrapper: white, is around everything. Size adjusts
 		font-weight: normal;
 		text-decoration: none;
 		color: blue;
+		white-space: normal;
 	}
 	a.paper:hover,
 	a.paper:active
@@ -218,6 +223,7 @@ wrapper: white, is around everything. Size adjusts
 		font-weight: normal;
 		text-decoration: none;
 		color: black;
+		white-space: normal;
 	}
 	a.paper2:hover,
 	a.paper2:active
