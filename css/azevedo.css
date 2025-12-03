@@ -111,7 +111,7 @@ wrapper: white, is around everything. Size adjusts
 }
 
 #content {
-	text-align:left
+	text-align: left;
     background: #FFFFFF;
     margin-left: 330px;
     padding-top: 20px;
@@ -119,7 +119,10 @@ wrapper: white, is around everything. Size adjusts
 
     font: 16px Georgia, "Times New Roman", Times, serif;
     white-space: normal;
+}
 
+#content p {
+	white-space: normal;
 }
 
 #leftcolumn {
